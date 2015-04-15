@@ -20,7 +20,6 @@ Modules: <code>requests, csv, json, operator, os</code>
 ***
 
 ## Developer's Notes
-
 I decided to write IMDb Sorter in Python because I've never used Python before and figured this was a great opportunity to learn Python by building something cool using it. Python also has an advantage over JavaScript (my earlier choice) in handling requests between the client and server.
 
 To familiarize myself with Python syntax, I completed the [NPR API tutorial](http://www.codecademy.com/en/tracks/npr) on [Codeacademy](http://codeacademy.com).
