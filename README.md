@@ -8,13 +8,6 @@ IMDb Sorter reads in a list of movies from a file and sorts them in descending o
     * In DENSE MODE, the file entries are shown as they are read in from the file, along with a counter of the entry number.
     * DEFAULT: DENSE MODE
 
-### Under the Hood
-```
-Python 2.7.9
-```
-
-Modules: <code>requests, csv, json, operator, os</code>
-
 
 ***
 
