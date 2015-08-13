@@ -1,6 +1,6 @@
 # IMDB Sorter
 # Written By: Himanshu Sahay
-# http://www.wpi.edu/~hsahay
+
 
 import requests
 import csv
